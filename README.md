@@ -16,3 +16,5 @@ This dataset contains mobile money transactions which were generated with PaySim
 |Decision Tree         |0.9996
 |Random Forest         |0.9996
 |Gaussian Naive Bayes         |0.9919
+
+[Link to the video](https://www.linkedin.com/posts/varun-reddy-0a7522194_machinelearning-project-dataanalytics-ugcPost-6831475963205951488-ci1F?utm_source=linkedin_share&utm_medium=member_desktop_web)
